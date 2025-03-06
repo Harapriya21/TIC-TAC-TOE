@@ -1,0 +1,38 @@
+.abc{
+  text-align:center;
+  padding-top:35%;
+}
+body{
+background: url(https://media.istockphoto.com/id/1186214696/photo/hindu-wedding-ritual-wherein-bride-and-groom-hand.jpg?s=612x612&w=0&k=20&c=fTlNejRdY7dkvk742auNgI3j6Ve9UqqWSnb3QJ-D2gw=);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+html{
+height: 100%;
+}
+#xyz1{
+font-size: 5em;
+font-weight: 600;
+color:yellow;
+}
+#xyz2{
+color:yellow;
+}
+#xyz3{
+width: 600px;
+border-top: 4px solid yellow;
+}
+.navbar{
+background: black;
+}
+.navbar a{
+color: red;
+}
+.btn-lg{
+background: black;
+color: red;
+}
+.icon-bar{
+border:red solid 1px;
+}
